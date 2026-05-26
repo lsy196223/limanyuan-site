@@ -1,0 +1,5 @@
+# 视频文件 >100MB — 部署时单独上传
+images/*.mp4
+.DS_Store
+Thumbs.db
+desktop.ini
